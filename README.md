@@ -3,8 +3,10 @@
 ## MS-Big Data Analytics Student
 Resume or Portfolio For Assignment
 
-###QUESTION 3
+
 ## [TITANIC DATA SET](https://github.com/awesomedata/awesome-public-datasets)
+
+## [Wes McKinney/O’REILLY ](https://wesmckinney.com/book/)
 
 
 
